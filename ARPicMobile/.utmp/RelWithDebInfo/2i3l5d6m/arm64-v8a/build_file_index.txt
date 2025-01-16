@@ -1,0 +1,3 @@
+D:\Scoala\Facultate\An3\IOC\Proiect\ARPicMobile\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Scoala\Facultate\An3\IOC\Proiect\ARPicMobile\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+D:\Scoala\Facultate\An3\IOC\Proiect\ARPicMobile\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
